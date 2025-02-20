@@ -1,0 +1,4 @@
+'name', 'age', 'gender'
+'Diana', 21, 'F'
+'Navya', 19, 'F'
+'Aravind', 20, 'M'
